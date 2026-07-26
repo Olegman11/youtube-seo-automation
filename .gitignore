@@ -1,0 +1,18 @@
+# Секреты и токены API
+client_secret.json
+*.json
+!thumbnail_prompts.json
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Данные и генерируемый контент
+*.xlsx
+thumbnails/
+*.png
+*.jpg
+
+# Кэш Python
+__pycache__/
+*.pyc
