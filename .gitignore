@@ -10,7 +10,7 @@ venv/
 # Данные и генерируемый контент
 *.xlsx
 thumbnails/
-*.png
+# *.png
 *.jpg
 
 # Кэш Python
